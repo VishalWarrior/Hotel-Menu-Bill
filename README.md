@@ -1,2 +1,8 @@
 # Hotel-Menu-Bill
-# Created application for hotel to make a bill for order from given menu
+# 
+I created an application for a hotel to generate bills for orders from a given menu.
+
+
+
+
+
