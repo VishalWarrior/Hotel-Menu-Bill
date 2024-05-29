@@ -1,4 +1,4 @@
-#Define the meny of Restaurant
+#Define the menu of Restaurant
 
 menu = {
     'Pizza':40,
